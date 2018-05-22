@@ -1,0 +1,1 @@
+document.getElementById("find").innerHTML="this is the perfect application";
